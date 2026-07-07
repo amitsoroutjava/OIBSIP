@@ -1,2 +1,18 @@
-# OIBSIP
-A collection of Java projects built during my internship and learning journey. Repository containing Java development projects and practical assignments. Java projects showcasing OOP, problem-solving, and software development skills. My Java internship project repository.
+# OIBSIP – Java Development Internship
+
+This repository contains the Java Development projects completed during my virtual internship at Oasis Infobyte.
+
+## Status
+🚀 Internship Duration: July 2026 – August 2026
+
+## Projects
+- Number Guessing Game
+- ATM Interface
+
+## Technologies Used
+- Java
+- Object-Oriented Programming (OOP)
+- Git & GitHub
+
+## Author
+Amit Sorout
